@@ -1,0 +1,22 @@
+{
+  "name": "on6-xp-s10-api-put-patch",
+  "version": "1.0.0",
+  "description": "Como você está lidando com esse processo de transição?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thaissacarrafa/on6-xp-s10-api-put-patch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thaissacarrafa/on6-xp-s10-api-put-patch/issues"
+  },
+  "homepage": "https://github.com/thaissacarrafa/on6-xp-s10-api-put-patch#readme",
+  "dependencies": {
+    "nodemon": "^2.0.5"
+  }
+}
